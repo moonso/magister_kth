@@ -1,0 +1,13 @@
+.DS_Store
+*.aux
+*.tmproj
+*.fdb_latexmk
+*.log
+*.blg
+*.bbl
+*.maf
+*.mtc
+*.mtc0
+*.gz
+*.pdf
+*.toc
